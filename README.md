@@ -1,0 +1,1 @@
+Determinación de distintas combinaciones de portafolios de inversión para dos tipos de acciones pertenecientes a los  principales índices bursátiles de Malasia y Singapur. Incluye dashboard, código en RStudio e informe.
